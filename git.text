@@ -1,1 +1,4 @@
 git add . // update the changes that we made
+git commit -m "title of changes" -m "description of changes" // will commit these changes locally
+git push // will upload our changes into website
+** it will requires some verifications and passwords
